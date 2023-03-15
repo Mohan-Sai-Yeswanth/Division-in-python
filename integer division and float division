@@ -1,0 +1,4 @@
+a = int(input())
+b = int(input())
+print(a//b)     */ in this we will do integer division to get the round up value.
+print(a/b)
